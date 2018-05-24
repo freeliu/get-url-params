@@ -1,0 +1,27 @@
+{
+  "name": "@freeliu/get-url-params",
+  "version": "1.0.1",
+  "description": "a js function get url params",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "p": "npm publish --access=public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeliu/get-url-params.git"
+  },
+  "keywords": [
+    "url",
+    "params"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeliu/get-url-params/issues"
+  },
+  "homepage": "https://github.com/freeliu/get-url-params#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}
